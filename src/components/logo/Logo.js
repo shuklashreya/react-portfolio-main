@@ -12,7 +12,6 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export const Logo = () => {
-    const classes = useStyles();
 
     return (
       <svg width="51" height="51" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" >
