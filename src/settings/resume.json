@@ -1,0 +1,145 @@
+{
+    "basics": {
+        "name": "Shreya Shukla",
+        "label": "Web Developer & Designer",
+        "email": "shuklashreyaa.236@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Web",
+        "job2": "Developer & Designer",
+        "description": "Hello! I'm Shreya! Your web development and UX design enthusiast. Always down for something new and challenging!  I'm here to help you create beautifully formatted websites and seamless user experiences.",
+        "summary": "based in Lucknow, India.",
+        "keywords": "personal,website,portfolio,template,kit,shreya,shukla,shreyashukla,shuklashreya,webdev,web,developer,lucknow,india,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://taniyow.vercel.app/",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Lucknow",
+            "country": "India",
+            "countryCode": "IN",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "shuklashreyaa.236@gmail.com",
+                "url": "mailto:shuklashreyaa.236@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "shuklaashreya",
+                "url": "https://www.linkedin.com/in/shuklaashreya/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "shuklashreya",
+                "url": "https://github.com/shuklashreya",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "GitLab",
+                "username": "shuklashreya",
+                "url": "https://gitlab.com/shuklashreya",
+                "x_icon": "fab fa-gitlab"
+            },
+            {
+                "network": "Telegram",
+                "username": "shuklashreya",
+                "url": "https://t.me/shuklashreya",
+                "x_icon": "fab fa-telegram-plane"
+            },
+            {
+                "network": "Discord",
+                "username": "shreyashukla#9995",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Impresario Global Pvt Ltd",
+            "position": "Senior Executive IT and Tech",
+            "website": "http://company.com",
+            "startDate": "2022-08-01",
+            "endDate": "Present",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "German",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Good knowledge"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
